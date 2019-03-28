@@ -17,10 +17,10 @@ Feel free to contact the secretaries at info AT php-fig.org. For more informatio
 
 | Name                                  | Term                    |
 |---------------------------------------|-------------------------|
-| Beau Simensen ([@beausimensen])       | 2016-12-24 - 2019-04-30 |
-| Larry Garfield ([@Crell])             | 2016-12-24 - 2019-04-30 |
-| Matthew Weier O'Phinney ([@mwop])     | 2016-12-24 - 2019-04-30 |
-| Sara Golemon ([@SaraMG])              | 2016-12-24 - 2019-04-30 |
+| Beau Simensen ([@beausimensen])       | 2016-12-24 - 2019-05-31 |
+| Larry Garfield ([@Crell])             | 2016-12-24 - 2019-05-31 |
+| Matthew Weier O'Phinney ([@mwop])     | 2016-12-24 - 2019-05-31 |
+| Sara Golemon ([@SaraMG])              | 2016-12-24 - 2019-05-31 |
 | Cees-Jan Kiewiet ([@WyriHaximus])     | 2016-12-24 - 2020-08-31 |
 | Lukas Kahwe Smith ([@lsmith])         | 2016-12-24 - 2020-08-31 |
 | Samantha Quiñones ([@ieatkillerbees]) | 2016-12-24 - 2020-08-31 |
@@ -67,7 +67,6 @@ Feel free to contact the secretaries at info AT php-fig.org. For more informatio
 | [Stash]                           | Robert Hafner ([@tedivm])             |
 | [Stormpath PHP SDK]               | Brian Retterer ([@bretterer])         |
 | [SugarCRM]                        | Andreas Sandberg ([@yellowandy])      |
-| [Symfony]                         | Fabien Potencier ([@fabpot])          |
 | [Flow] and [Neos]                 | Karsten Dambekalns ([@kdambekalns])   |
 | [Wikibase] and [Semantic Media]   | Jeroen De Dauw ([@JeroenDeDauw])      |
 | [Yii framework]                   | Alexander Makarov ([@sam_dark])       |
@@ -110,7 +109,7 @@ Feel free to contact the secretaries at info AT php-fig.org. For more informatio
 | [The League of Extraordinary Packages]    | Graham Hoefer ([@greydnls])           |
 | [Propel]                                  | William Durand ([@couac])             |
 | [sabre/dav]                               | Evert Pot ([@evertp])                 |
-
+| [Symfony]                                 | Fabien Potencier ([@fabpot])          |	
 
 [@adamculp]: https://twitter.com/adamculp
 [@AlessandroLai]: https://twitter.com/AlessandroLai
@@ -180,7 +179,7 @@ Feel free to contact the secretaries at info AT php-fig.org. For more informatio
 [Doctrine]: http://www.doctrine-project.org
 [Drupal]: http://drupal.org
 [eZ Publish]: http://ez.no
-[Flow]: http://flow.typo3.org
+[Flow]: https://flow.neos.io/
 [Guzzle]: http://guzzlephp.org
 [Horde]: http://www.horde.org
 [IBM i Toolkit]: https://github.com/zendtech/IbmiToolkit
@@ -190,7 +189,7 @@ Feel free to contact the secretaries at info AT php-fig.org. For more informatio
 [Laravel]: http://laravel.com
 [Lithium]: http://li3.me
 [Magento]: http://magento.com
-[Neos]: http://neos.io
+[Neos]: https://neos.io
 [PEAR]: http://pear.php.net
 [Phalcon]: http://www.phalconphp.com
 [Phergie]: https://www.phergie.org

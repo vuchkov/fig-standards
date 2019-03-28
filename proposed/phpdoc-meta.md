@@ -10,7 +10,7 @@ consume a class of the project that a consumer want to use.
 By documenting specific elements inside the source code, the documentation for that part of the source code will be less
 susceptible to becoming out of date.
 
-PHPDoc as a notation was first presented in 2000 by Ulf Wendel, is heavily inspired by JavaDoc, 
+PHPDoc as a notation was first presented in 2000 by Ulf Wendel, is heavily inspired by JavaDoc,
 and is currently in use by a significant percentage of public PHP projects in the field.
 
 ## 2. Why Bother?
@@ -83,7 +83,8 @@ Cons:
 
  * Alexey Gopachenko - [PhpStorm](https://www.jetbrains.com/phpstorm)
  * Matthew Brown - [Psalm](https://github.com/vimeo/psalm)
- * Ondrej Mirtes - [PHPStan](https://github.com/phpstan/phpstan)
+ * Jan Tvrdík - [PHPStan](https://github.com/phpstan/phpstan)
+ * Jaap van Otterdijk - [phpDocumentor](https://github.com/phpDocumentor/phpDocumentor2)
 
 ## 6. Votes
 
